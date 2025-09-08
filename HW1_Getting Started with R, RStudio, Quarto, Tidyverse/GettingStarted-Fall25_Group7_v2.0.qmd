@@ -16,10 +16,11 @@ You will be working together to get up to speed on the "10 Essentials" found her
 
 Who are the members of your group? Tell me a bit about everyone. Where and when did you meet to work on this assignment? Include a group selfie or (Zoom screenshot).
 
-- We met in the DSI lounge! 
+- We met in the DSI lounge and zoom meeting! 
 - Emily Ramond: Undergrad from UCSD in data science, lives in Midtown, worked for three years following undergrad. 
 - Ching-Heng Huang: Come from Taiwan, majoring in Quantitative Finance, worked for three years at EY.
 - Chih-Yuan Chang: Also from Taiwan, majoring in psychology and environmental engineering.
+- David Dai: Come from Beijing, majoring in data science at Columbia, undergraduate in Math and DS from NYU.
 
 ### 2. Install R and RStudio
 
