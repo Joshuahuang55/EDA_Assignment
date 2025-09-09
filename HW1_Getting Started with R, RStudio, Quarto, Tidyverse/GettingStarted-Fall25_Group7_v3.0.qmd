@@ -197,8 +197,8 @@ head(arrange(foul_balls_df, type_of_hit))
 ```{r}
 # Groupby: Compute the mean of exit_velocity by each type_of_hit (ignoring NAs)
 foul_balls_df |>
-  dplyr::group_by(type_of_hit) |>
-  dplyr::summarise(mean_velocity = mean(exit_velocity, na.rm = TRUE))
+  group_by(type_of_hit) |>
+  summarise(mean_velocity = mean(exit_velocity, na.rm = TRUE))
 
 ```
 
